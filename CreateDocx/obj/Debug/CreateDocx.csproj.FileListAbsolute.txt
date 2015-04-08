@@ -1,7 +1,0 @@
-C:\inetpub\Visual Studio 2012\Projects\CreateDocx\CreateDocx\bin\Debug\CreateDocx.exe.config
-C:\inetpub\Visual Studio 2012\Projects\CreateDocx\CreateDocx\bin\Debug\CreateDocx.exe
-C:\inetpub\Visual Studio 2012\Projects\CreateDocx\CreateDocx\bin\Debug\CreateDocx.pdb
-C:\inetpub\Visual Studio 2012\Projects\CreateDocx\CreateDocx\obj\Debug\CreateDocx.exe
-C:\inetpub\Visual Studio 2012\Projects\CreateDocx\CreateDocx\obj\Debug\CreateDocx.pdb
-C:\inetpub\Visual Studio 2012\Projects\CreateDocx\CreateDocx\bin\Debug\DocX.dll
-C:\inetpub\Visual Studio 2012\Projects\CreateDocx\CreateDocx\obj\Debug\CreateDocx.csprojResolveAssemblyReference.cache
